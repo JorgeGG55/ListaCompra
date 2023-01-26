@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ListaCompra</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="food_a">Pan</string>
+    <string name="food_b">Cereales</string>
+    <string name="food_c">Leche</string>
+    <string name="food_d">Huevos</string>
+    <string name="food_e">Chocolate</string>
+    <string name="food_f">Carne</string>
+    <string name="food_g">Pescado</string>
+    <string name="food_h">Mantequilla</string>
+
+    <string name="price_a">1,62 €</string>
+    <string name="price_b">2,99 €</string>
+    <string name="price_c">1,24 €</string>
+    <string name="price_d">2,49 €</string>
+    <string name="price_e">3,49 €</string>
+    <string name="price_f">8,97 €</string>
+    <string name="price_g">13,90 €</string>
+    <string name="price_h">3,55 €</string>
+
+
+</resources>
